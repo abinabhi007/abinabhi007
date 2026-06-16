@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abin HN 
+# Hi, I'm Abin 
 
 **Next.js Developer · React.js · Full-Stack Integration**
 
